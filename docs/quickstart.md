@@ -44,7 +44,7 @@ Find out more about Shardeum nodes:
 
 Running nodes:
 
-[How to run a validator node](https://github.com/kaksv/shardeum-docs/blob/main/docs/Node/Run/Validator)
+[How to run a validator node](https://github.com/kaksv/shardeum-docs/blob/main/docs/node/Run/Validator)
 
 ## Wallet Setup For Using Shardeum
 
@@ -56,7 +56,7 @@ You will need an EVM wallet like Metamask to:
 
 For more info on Metamask:
 
-[Metamask Introduction](https://github.com/kaksv/shardeum-docs/blob/main/docs/wallets/MetaMask/introduction.md)
+[Metamask Introduction](https://github.com/kaksv/shardeum-docs/blob/main/docs/wallets/metamask/introduction.md)
 
 ## Fund Your Wallet With SHM On Shardeum
 
@@ -101,11 +101,11 @@ To deploy contracts at the same address cross chain:
 All EVM based token standards are supported on Shardeum (since Shardeum is EVM compatible).
 Popular tokens supported on Shardeum:
 
-[ERC-20 (Fungible Tokens)](https://github.com/kaksv/shardeum-docs/blob/main/docs/smart-contracts/tokens/ERC-20.md)
+[ERC-20 (Fungible Tokens)](https://github.com/kaksv/shardeum-docs/blob/main/docs/smart-contracts/tokens/erc-20.md)
 
-[ERC-721 (NFTs)](https://github.com/kaksv/shardeum-docs/blob/main/docs/smart-contracts/tokens/ERC-721.md)
+[ERC-721 (NFTs)](https://github.com/kaksv/shardeum-docs/blob/main/docs/smart-contracts/tokens/erc-721.md)
 
-[ERC-1155 (Token Emulator)](https://github.com/kaksv/shardeum-docs/blob/main/docs/smart-contracts/tokens/ERC-1155.md)
+[ERC-1155 (Token Emulator)](https://github.com/kaksv/shardeum-docs/blob/main/docs/smart-contracts/tokens/erc-1155.md)
 
 ## Cross Shard Composability Communication With EIP-2930
 
